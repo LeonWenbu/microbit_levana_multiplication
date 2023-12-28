@@ -118,10 +118,4 @@
         # # # # # 
         . # . # . 
         # # . # #
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="hID#Vh(t**6g`v;YZ5$v" x="-21" y="2583"><statement name="HANDLER"><block type="device_show_leds" id="|(3r%Yh/rs_$r9{K5Jeg"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
-        `</field></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
